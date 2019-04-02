@@ -15,8 +15,5 @@ HEADERS += \
     metaballs.h
 
 DISTFILES += \
-    vShader.glsl \
-    gShader.glsl \
-    fShader.glsl \
     metaball_fShader.glsl \
     metaball_vShader.glsl
